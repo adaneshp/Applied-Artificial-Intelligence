@@ -4,7 +4,7 @@
 
 2. This is a very open ended assignment, the end goal is for you to implement RCNN and YOLO model training and testing on dataset available online. You can use any dataset from the following link:
 
-https://www.analyticsvidhya.com/blog/2021/05/top-10-open-source-datasets-for-object-detection-machine-learning-in-2021/Links to an external site.
+https://www.analyticsvidhya.com/blog/2021/05/top-10-open-source-datasets-for-object-detection-machine-learning-in-2021/
 
 Feel free to use any other dataset that has bounding boxes.
 
