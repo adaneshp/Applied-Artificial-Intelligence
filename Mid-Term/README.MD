@@ -20,7 +20,7 @@ Visualize the matplotlib figure.
 Post that Convert a matplotlib figure to a NumPy array with RGBA channels and return it. 
 Note: Be sure to draw the canvas before starting.
 
-** All the steps are explained one by one in the notebook for convenience. Please follow the to get the desired results **
+**All the steps are explained one by one in the notebook for convenience. Please follow the to get the desired results**
 
-* Shout out to "Detectron2 Team" (https://github.com/facebookresearch/detectron2) for the great repository *
-* Thanks to "The AI Guy" for sharing a great tutorial for accessing webcam on colab (https://www.youtube.com/watch?v=YjWh7QvVH60) *
+*Shout out to "Detectron2 Team" (https://github.com/facebookresearch/detectron2) for the great repository*
+*Thanks to "The AI Guy" for sharing a great tutorial for accessing webcam on colab (https://www.youtube.com/watch?v=YjWh7QvVH60)*
