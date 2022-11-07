@@ -1,6 +1,8 @@
 # Applied-Artificial-Intelligence
 -----------
+
 This repository contatins the programs that I wrote for Applied Artificial Intelligence course.
+
 -----------
 ## List of the projects
 
