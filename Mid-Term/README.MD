@@ -23,6 +23,7 @@ Note: Be sure to draw the canvas before starting.
 **All the steps are explained one by one in the notebook for convenience. Please follow the to get the desired results**
 
 #### Thanks
+--------------------------
 
 *Shout out to "Detectron2 Team" (https://github.com/facebookresearch/detectron2) for the great repository*
 
