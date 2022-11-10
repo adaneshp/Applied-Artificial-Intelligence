@@ -8,23 +8,21 @@ The task is to implement a simple solution to run Detectron Mask R-CNN algorithm
 • CUDA 8 and above 
 • cuDNN 6 and above 
 • OpenCV 3.4 
-Datasets which can be used: COCO COCO minival PASCAL VOC 2007 Kavsir
-### Basic step overview : 
-To set and get Camera use OpenCV using the VideoCapture(). 
-Now fetch the images form Camera and have them in the RGB format for visualization. 
-The default format will be in PDF, convert all of them to JPG. 
-After this use matplotlib for visualization purpose (do some research on how matplotlib supports webcam). 
-Note: Use mid shoulder/ mid hip first for better visualization. 
-Now draw/blend the keypoints and then show them. 
-Visualize the matplotlib figure. 
-Post that Convert a matplotlib figure to a NumPy array with RGBA channels and return it. 
-Note: Be sure to draw the canvas before starting.
 
-The final output should be a streaming video, each frame looking like the following image:
+### Basic step overview : 
+
+1- Installing the detectron on Google Colab
+2- Using code snippets for accessing to webcam on google colab (this part uses some JavaScript, however the code snippet is available and there is no need for writing your own JS code)
+3- Inferencing images read from the webcam using detectron and Mask-RCNN.
+4- Displaying the images in a streaming fashion.
+
+**All the steps are explained in details one by one in the notebook for convenience. Please follow those instructions to get the desired results**
+
+Please note that based on your type of subscription for Google Colab and/or the type of machine that you are using, the speed of inferencing would change.
+
+The final output should be a streaming video, each frame looking something like the following image:
 
 ![mask_rcnn](https://user-images.githubusercontent.com/89472694/201169046-921a0b95-b5a7-4555-82ed-702a60782a03.jpg)
-
-**All the steps are explained one by one in the notebook for convenience. Please follow the to get the desired results**
 
 --------------------------
 
