@@ -20,6 +20,10 @@ Visualize the matplotlib figure.
 Post that Convert a matplotlib figure to a NumPy array with RGBA channels and return it. 
 Note: Be sure to draw the canvas before starting.
 
+The final output should be a streaming video, each frame looking like the following image:
+
+![mask_rcnn](https://user-images.githubusercontent.com/89472694/201169046-921a0b95-b5a7-4555-82ed-702a60782a03.jpg)
+
 **All the steps are explained one by one in the notebook for convenience. Please follow the to get the desired results**
 
 --------------------------
