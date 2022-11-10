@@ -11,10 +11,10 @@ The task is to implement a simple solution to run Detectron Mask R-CNN algorithm
 
 ### Basic step overview : 
 
-1- Installing the detectron on Google Colab
-2- Using code snippets for accessing to webcam on google colab (this part uses some JavaScript, however the code snippet is available and there is no need for writing your own JS code)
-3- Inferencing images read from the webcam using detectron and Mask-RCNN.
-4- Displaying the images in a streaming fashion.
+- Installing the detectron on Google Colab
+- Using code snippets for accessing to webcam on google colab (this part uses some JavaScript, however the code snippet is available and there is no need for writing your own JS code)
+- Inferencing images read from the webcam using detectron and Mask-RCNN.
+- Displaying the images in a streaming fashion.
 
 **All the steps are explained in details one by one in the notebook for convenience. Please follow those instructions to get the desired results**
 
